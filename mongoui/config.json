@@ -6,5 +6,9 @@
   "description": "A simple mongodb-ui instance",
   "startup": "system",
   "ingress": true,
-  "panel_icon": "mdi:database"
+  "ingress_port": 8081,
+  "panel_icon": "mdi:database",
+  "ports": {
+    "8081/tcp": 8081
+  }
 }
