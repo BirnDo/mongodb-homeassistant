@@ -1,0 +1,8 @@
+{
+  "name": "Mongodb",
+  "version": "0.1",
+  "slug": "mongodb",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "description": "A simple mongodb instance",
+  "startup": "system"
+}
