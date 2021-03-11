@@ -10,5 +10,6 @@
   "panel_icon": "mdi:database",
   "ports": {
     "8081/tcp": 8081
-  }
+  },
+  "image": "mongo-express"
 }

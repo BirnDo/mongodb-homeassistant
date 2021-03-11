@@ -4,5 +4,9 @@
   "slug": "mongodb",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "description": "A simple mongodb instance",
-  "startup": "system"
+  "startup": "system",
+  "ports": {
+    "27017/tcp": 27017
+  },
+  "image": "mongo"
 }
