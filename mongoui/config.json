@@ -1,6 +1,6 @@
 {
   "name": "Mongodb-ui",
-  "version": "1.1",
+  "version": "1.2",
   "slug": "mongodb-ui",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "description": "A simple mongodb-ui instance",
