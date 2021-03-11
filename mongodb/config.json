@@ -7,6 +7,5 @@
   "startup": "system",
   "ports": {
     "27017/tcp": 27017
-  },
-  "image": "mongo"
+  }
 }
