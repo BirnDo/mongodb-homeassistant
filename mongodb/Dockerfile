@@ -4,7 +4,7 @@ COPY run.sh /home/mongodb/scripts
 
 COPY setup_user.sh /home/mongodb/scripts
 
-COPY /ssl /home/mongodb/ssl
+COPY /ssl/ /home/mongodb/ssl/
 
 COPY mongod.conf /home/mongodb
 
